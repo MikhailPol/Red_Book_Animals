@@ -74,6 +74,7 @@ body {
   font-size: 5em;
   list-style: 1.3em;
   color: #f1683a;
+  padding-right: 10px;
   
 }
 
@@ -368,13 +369,13 @@ body {
 
 @media screen and (max-width: 400px) {
   .carousel__list_item .item__content .item__content_name {
-    font-size: 30px;
+    font-size: 25px;
   }
   .item__content_desc {
     font-size: 13px;
   }
   .header {
-    font-size: 15px;
+    font-size: 10px;
   }
 }
 
