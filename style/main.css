@@ -7,6 +7,7 @@ body {
   color: #eee;
   font-family: Poopins, sans-serif;
   font-size: 12px;
+  height: 100%;
 }
 
 /* Header */
@@ -30,7 +31,7 @@ body {
 .carousel {
   position: relative;
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   margin-top: -50px;
   overflow: hidden;
 }
